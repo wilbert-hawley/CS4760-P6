@@ -26,3 +26,26 @@ How To Run:
 Change Log:
 
 
+commit 1e56377f0f6a5e2dd3363f87fe16af5540fdf9f3
+Author: Wilbert Hawley <hawley@hoare7.cs.umsl.edu>
+Date:   Tue May 4 23:53:14 2021 -0500
+
+    FInal commit
+
+commit 24cd1e2d57769109875d4ac180bf521fb5ea9657
+Author: Wilbert Hawley <hawley@hoare7.cs.umsl.edu>
+Date:   Tue May 4 23:27:58 2021 -0500
+
+    Mostly finished project. Need to finish readme.
+
+commit 85f4df00632c2e92a1ab8a316d0c8a2b6abd28bd
+Author: Wilbert Hawley <hawley@hoare7.cs.umsl.edu>
+Date:   Tue May 4 21:21:13 2021 -0500
+
+    Got the main program running, set up output. Need to collect statistics next.
+
+commit 67c1b060a69615c386bed3ff0b15721d8ae59a46
+Author: Wilbert Hawley <hawley@hoare7.cs.umsl.edu>
+Date:   Tue May 4 18:55:09 2021 -0500
+
+    first commit
