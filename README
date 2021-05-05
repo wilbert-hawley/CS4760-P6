@@ -1,0 +1,28 @@
+README
+
+Name: Wilbert Hawley
+Email: wsh275@umsystem.edu
+Date: 5/4/21
+Program: oss, child_proc
+CS4760 - Assignment 6
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Adjustments:
+	- Each process only runs a couple times. I had issues when they ran for over 1000.
+        - The last process seems to linger but that's ok. Still seems to be working.
+        - I did not include a report here because the project description seems too outdated. It says to discuss both page request schemes but we only had one single page request scheme. If you mean read vs. write, then the writing certainly takes longer.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+How To Run:
+	- on command line: make clean
+        - on command line: make
+        - Run program with: ./oss
+        - try option -p x, where x is the total number of process.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Change Log:
+
+
