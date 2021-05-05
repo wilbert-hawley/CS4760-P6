@@ -22,6 +22,7 @@ struct msg_info {
   int address;
   int page;
   char type;
+  bool term;
 };
 
 struct msgbuf {
